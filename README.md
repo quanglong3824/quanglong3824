@@ -2,14 +2,14 @@
   <img src="./banner.svg" alt="Le Quang Long Banner" width="100%">
 </p>
 
-<h2 align="center">👋 Chào mừng bạn đến với không gian phát triển của tôi!</h2>
+<h2 align="center">👋 Welcome to my development space!</h2>
 
 <p align="center">
   <strong>Fullstack Developer &amp; AI Integration Specialist</strong>
 </p>
 
 <p align="justify">
-Tôi là một nhà phát triển Fullstack với <strong>3 năm kinh nghiệm thực tế</strong> trong việc xây dựng website, tự động hóa quy trình nghiệp vụ và tích hợp các giải pháp Trí tuệ Nhân tạo (AI/ML). Tôi sở hữu thế mạnh trong việc tối ưu hóa hiệu năng hệ thống, kết hợp tư duy UI/UX hiện đại và kỹ năng ứng dụng AI chuyên sâu (AI vibe coding) để kiến tạo nên những giải pháp phần mềm thông minh, chính xác và mang lại giá trị thực tiễn cao cho doanh nghiệp.
+I am a Fullstack Developer with <strong>3 years of practical experience</strong> in website development, business process automation, and Artificial Intelligence (AI/ML) integration. I possess a strong background in optimizing system performance, combining modern UI/UX design thinking and in-depth AI application skills ("AI vibe coding") to engineer smart, precise, and high-value software solutions for businesses.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Tôi là một nhà phát triển Fullstack với <strong>3 năm kinh nghiệm t
 
 ---
 
-### 🛠️ Công nghệ & Công cụ (Tech Stack)
+### 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
@@ -55,7 +55,7 @@ Tôi là một nhà phát triển Fullstack với <strong>3 năm kinh nghiệm t
       <img src="https://img.shields.io/badge/AI%20Utilization%20%2F%20Tools-8E44AD?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="AI Tools">
     </td>
     <td valign="top" width="50%">
-      <h4>🧰 Quy trình &amp; Công cụ khác</h4>
+      <h4>🧰 Workflow &amp; Other Tools</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code">
@@ -67,60 +67,60 @@ Tôi là một nhà phát triển Fullstack với <strong>3 năm kinh nghiệm t
 
 ---
 
-### 💼 Kinh nghiệm làm việc (Work Experience)
+### 💼 Work Experience
 
 #### 🏨 **IT Staff | Aurora Hotel Plaza** *(04/2023 - 06/2026)*
-* **Phát triển & Tối ưu hóa**: Chịu trách nhiệm thiết kế, lập trình và tối ưu hóa website đặt phòng trực tuyến cùng các phần mềm nội bộ của khách sạn.
-* **Tích hợp Trí tuệ Nhân tạo (AI/ML)**: Nghiên cứu và ứng dụng thành công các mô hình AI vào hệ thống, tối ưu logic xử lý phòng và giúp **tăng 30% tốc độ hoàn thành dự án**. Thành thạo kỹ năng "AI vibe coding" kết hợp Python (Jupyter Notebook, ML models) để đưa ra các giải pháp thông minh.
-* **Quản trị cơ sở dữ liệu**: Thiết kế cấu trúc hệ thống và quản lý cơ sở dữ liệu MySQL, đảm bảo dữ liệu đồng bộ thời gian thực, bảo mật và truy xuất nhanh.
-* **Tự động hóa quy trình**: Lập trình các công cụ và script tự động hóa công việc nội bộ, **giảm 40% tác vụ thủ công** và giảm thiểu việc sử dụng giấy tờ hành chính.
-* **Quản lý source code**: Sử dụng Git/GitHub để quản lý mã nguồn, cộng tác chặt chẽ với các thành viên và giám sát quá trình nâng cấp hệ thống.
-* **Tư duy UI/UX**: Kết hợp tư duy thiết kế để cải thiện giao diện người dùng, mang lại trải nghiệm mượt mà, trực quan, góp phần nâng cao hiệu quả vận hành của khách sạn.
+* **Development &amp; Optimization**: Responsible for designing, programming, and optimizing the online booking website and internal software tools for the hotel.
+* **AI/ML Integration**: Researched and successfully integrated AI models into the system, optimizing room processing logic and **increasing project completion speed by 30%**. Proficient in "AI vibe coding" combining Python (Jupyter Notebook, ML models) to deliver intelligent solutions.
+* **Database Management**: Designed system architecture and managed MySQL databases, ensuring real-time data synchronization, security, and high-speed retrieval.
+* **Process Automation**: Programmed internal automation tools and scripts, **reducing manual tasks by 40%** and minimizing paper-based administrative work.
+* **Source Code Management**: Utilized Git/GitHub to manage source code, collaborate closely with team members, and monitor system upgrades.
+* **UI/UX Thinking**: Combined design thinking to improve user interface, delivering a smooth, intuitive experience and enhancing the hotel's overall operational efficiency.
 
 ---
 
-### 🚀 Dự án nổi bật (Highlight Projects)
+### 🚀 Highlight Projects
 
-#### 1. 🌐 **Aurora Hotel Plaza Booking Website** *(05/2025 - Hiện tại)*
-*Thiết kế, xây dựng và triển khai toàn diện hệ thống website đặt phòng trực tuyến chính thức cho khách sạn, chuyển đổi quy trình vận hành từ thủ công sang kỹ thuật số.*
-* **Vai trò**: Solo Developer (Phát triển độc lập toàn bộ hệ thống từ Database đến UI).
-* **Nhiệm vụ chính**:
-  * *Nâng cao trải nghiệm người dùng*: Ứng dụng tư duy UI/UX kết hợp JavaScript &amp; CSS giúp giao diện trực quan, tạo hành trình đặt phòng mượt mà cho khách hàng và đảm bảo hệ thống hoạt động ổn định.
-  * *Phát triển Backend &amp; Database*: Thiết kế, tối ưu cấu trúc cơ sở dữ liệu MySQL, đồng bộ dữ liệu đặt phòng thời gian thực và truy xuất nhanh thông tin khách hàng.
+#### 1. 🌐 **Aurora Hotel Plaza Booking Website** *(05/2025 - Present)*
+*Designed, built, and fully implemented the official online booking website system for the hotel, transforming operational processes from manual to digital.*
+* **Role**: Solo Developer (Independently developed the entire system from Database to UI).
+* **Key Responsibilities**:
+  * *Enhance User Experience*: Applied UI/UX thinking combined with JavaScript &amp; CSS to create an intuitive interface, providing a smooth booking journey for customers and ensuring stable system operations.
+  * *Backend &amp; Database Development*: Designed and optimized MySQL database structures, enabling real-time booking data synchronization and fast customer retrieval.
 * **Tech Stack**: Native PHP, JavaScript, MySQL, CSS, Git, AI Tools.
 * **Website**: [aurorahotelplaza.com](https://aurorahotelplaza.com)
 
 #### 2. 🤖 **Python Automation Tools** *(05/2025 - 05/2026)*
-*Phát triển các công cụ và tập lệnh tự động hóa nhằm tối ưu hóa các quy trình kinh doanh nội bộ và tự động hóa sao lưu dữ liệu.*
-* **Vai trò**: Solo Developer (Nghiên cứu và phát triển độc lập).
+*Developed automation tools and scripts to optimize internal business processes and automate data backups.*
+* **Role**: Solo Developer (Independent research and development).
 * **Tech Stack**: Python, Bash Script, Git, AI Tools.
 
 #### 3. 🧠 **Graduation Project - Stroke Early Warning Software (SEWS)** *(11/2025 - 01/2026)*
-*Phát triển ứng dụng di động thông minh hỗ trợ dự đoán nguy cơ đột quỵ và tiểu đường, tích hợp hệ thống cảnh báo khẩn cấp SOS.*
-* **Vai trò**: Lead Developer.
-* **Nhiệm vụ chính**:
-  * Thiết kế giao diện người dùng và phát triển ứng dụng di động đa nền tảng sử dụng Dart &amp; Flutter, đảm bảo trải nghiệm mượt mà và hiệu suất tối ưu.
-  * Tích hợp thành công mô hình Machine Learning đã được huấn luyện (tệp `.pkl`) để đưa ra dự đoán sức khỏe với độ chính xác cao.
-  * Xây dựng và tối ưu hệ thống khẩn cấp SOS qua Firebase, kết nối tức thời người dùng với gia đình và bác sĩ khi gặp sự cố khẩn cấp.
+*Developed a smart mobile application to help predict the risk of stroke and diabetes, integrating an SOS emergency alert system.*
+* **Role**: Lead Developer.
+* **Key Responsibilities**:
+  * Designed user interfaces and developed cross-platform mobile applications using Dart &amp; Flutter, ensuring a smooth user experience and optimized performance.
+  * Successfully integrated a trained Machine Learning model (`.pkl` model) to produce highly accurate health predictions.
+  * Built and optimized an Emergency SOS system via Firebase, providing instant connection between users and family/doctors in case of emergencies.
 * **Tech Stack**: Dart, Flutter, Python, Jupyter Notebook, Machine Learning, Firebase, Git, Script Shell.
-* **Nhóm**: 2 thành viên.
+* **Group Size**: 2 members.
 
 ---
 
-### 🎓 Học vấn & Chứng chỉ (Education & Certificates)
+### 🎓 Education &amp; Certificates
 
-* **Trường Đại học Sư phạm TP.HCM**
-  * *Cử nhân Công nghệ thông tin* | 10/2023 - 06/2026
-  * Tốt nghiệp hệ Kỹ sư CNTT | GPA: 3.07 / 4.0
-* **Trường Cao đẳng Công nghệ Đồng Nai**
-  * *Hệ Cao đẳng - Công nghệ thông tin* | 10/2022 - 05/2023
-  * Tốt nghiệp | GPA: 3.21 / 4.0
-* **Chứng chỉ TOEIC Nội bộ (HCMUTE - IIG Việt Nam)** *(01/2026)*
-  * Đạt **565/990** điểm. Đáp ứng tiêu chuẩn tiếng Anh đầu ra của chương trình kỹ sư, thể hiện khả năng đọc hiểu tài liệu kỹ thuật và các thuật ngữ chuyên ngành.
+* **Ho Chi Minh City University of Education**
+  * *Bachelor of Information Technology* | 10/2023 - 06/2026
+  * Graduated with a Bachelor of Engineering degree | GPA: 3.07 / 4.0
+* **Dong Nai College of Technology**
+  * *College Diploma - Information Technology* | 10/2022 - 05/2023
+  * Graduated | GPA: 3.21 / 4.0
+* **Internal TOEIC Certificate (HCMUTE - IIG Vietnam)** *(01/2026)*
+  * Achieved **565/990** points. Met the foreign language requirement for the engineering program, demonstrating proficiency in reading technical documentation and understanding domain-specific terminology.
 
 ---
 
-### 📊 Thống kê GitHub (GitHub Stats)
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/quanglong3824">
