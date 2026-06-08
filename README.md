@@ -67,60 +67,35 @@ I am a Fullstack Developer with <strong>3 years of practical experience</strong>
 
 ---
 
-### 💼 Work Experience
+### 💡 AI Vibe Coding &amp; Development Philosophy
 
-#### 🏨 **IT Staff | Aurora Hotel Plaza** *(04/2023 - 06/2026)*
-* **Development &amp; Optimization**: Responsible for designing, programming, and optimizing the online booking website and internal software tools for the hotel.
-* **AI/ML Integration**: Researched and successfully integrated AI models into the system, optimizing room processing logic and **increasing project completion speed by 30%**. Proficient in "AI vibe coding" combining Python (Jupyter Notebook, ML models) to deliver intelligent solutions.
-* **Database Management**: Designed system architecture and managed MySQL databases, ensuring real-time data synchronization, security, and high-speed retrieval.
-* **Process Automation**: Programmed internal automation tools and scripts, **reducing manual tasks by 40%** and minimizing paper-based administrative work.
-* **Source Code Management**: Utilized Git/GitHub to manage source code, collaborate closely with team members, and monitor system upgrades.
-* **UI/UX Thinking**: Combined design thinking to improve user interface, delivering a smooth, intuitive experience and enhancing the hotel's overall operational efficiency.
+> *"The best code is no code; the second best is automated code."*
+
+* **AI-Driven Productivity**: I fully embrace **AI Vibe Coding** — using advanced LLMs and AI agents as force multipliers to handle boilerplates and speed up project velocity by 30-40%. This allows me to focus on system architecture, database optimization, and high-fidelity UI/UX styling.
+* **Automation-First Mindset**: If a task has to be performed manually more than twice, it gets a Python or Bash script. I automate everything from data backups to deployment testing.
+* **UI/UX Obsessed**: Clean backend APIs are essential, but the visual experience is what drives adoption. I bridge the gap between logical performance and sleek glassmorphic interfaces.
 
 ---
 
-### 🚀 Highlight Projects
+### ⚡ Fun Tech Facts
 
-#### 1. 🌐 **Aurora Hotel Plaza Booking Website** *(05/2025 - Present)*
-*Designed, built, and fully implemented the official online booking website system for the hotel, transforming operational processes from manual to digital.*
-* **Role**: Solo Developer (Independently developed the entire system from Database to UI).
-* **Key Responsibilities**:
-  * *Enhance User Experience*: Applied UI/UX thinking combined with JavaScript &amp; CSS to create an intuitive interface, providing a smooth booking journey for customers and ensuring stable system operations.
-  * *Backend &amp; Database Development*: Designed and optimized MySQL database structures, enabling real-time booking data synchronization and fast customer retrieval.
-* **Tech Stack**: Native PHP, JavaScript, MySQL, CSS, Git, AI Tools.
-* **Website**: [aurorahotelplaza.com](https://aurorahotelplaza.com)
-
-#### 2. 🤖 **Python Automation Tools** *(05/2025 - 05/2026)*
-*Developed automation tools and scripts to optimize internal business processes and automate data backups.*
-* **Role**: Solo Developer (Independent research and development).
-* **Tech Stack**: Python, Bash Script, Git, AI Tools.
-
-#### 3. 🧠 **Graduation Project - Stroke Early Warning Software (SEWS)** *(11/2025 - 01/2026)*
-*Developed a smart mobile application to help predict the risk of stroke and diabetes, integrating an SOS emergency alert system.*
-* **Role**: Lead Developer.
-* **Key Responsibilities**:
-  * Designed user interfaces and developed cross-platform mobile applications using Dart &amp; Flutter, ensuring a smooth user experience and optimized performance.
-  * Successfully integrated a trained Machine Learning model (`.pkl` model) to produce highly accurate health predictions.
-  * Built and optimized an Emergency SOS system via Firebase, providing instant connection between users and family/doctors in case of emergencies.
-* **Tech Stack**: Dart, Flutter, Python, Jupyter Notebook, Machine Learning, Firebase, Git, Script Shell.
-* **Group Size**: 2 members.
+* ☕ **Fuel**: Powered by Vietnamese iced coffee, relational database schemas, and prompt engineering.
+* 🤖 **AI Native**: Most of my commits are pair-programmed with AI coding agents (just like this profile!).
+* 🎯 **Lazy Developer Rule**: Built custom automation tools for the hotel just to skip doing data backups and room updates manually.
+* 🎨 **Visuals**: Strongly believes that websites without micro-interactions and modern CSS styling are incomplete.
 
 ---
 
-### 🎓 Education &amp; Certificates
+### 🚀 Timeline &amp; Key Milestones
 
-* **Ho Chi Minh City University of Education**
-  * *Bachelor of Information Technology* | 10/2023 - 06/2026
-  * Graduated with a Bachelor of Engineering degree | GPA: 3.07 / 4.0
-* **Dong Nai College of Technology**
-  * *College Diploma - Information Technology* | 10/2022 - 05/2023
-  * Graduated | GPA: 3.21 / 4.0
-* **Internal TOEIC Certificate (HCMUTE - IIG Vietnam)** *(01/2026)*
-  * Achieved **565/990** points. Met the foreign language requirement for the engineering program, demonstrating proficiency in reading technical documentation and understanding domain-specific terminology.
+* 🎓 **Bachelor of IT**: Graduated from **Ho Chi Minh City University of Education** (10/2023 - 06/2026) with a Bachelor of Engineering (GPA: 3.07/4.0). Also holds an IT College Diploma (GPA: 3.21/4.0).
+* 🏨 **IT Staff | Aurora Hotel Plaza**: Worked from 04/2023 to 06/2026, building their official booking platform ([aurorahotelplaza.com](https://aurorahotelplaza.com)) and implementing room-logic automations.
+* 🧠 **Project SEWS (Graduation)**: Developed a Flutter mobile application integrated with a custom Machine Learning model to forecast stroke and diabetes risk.
+* 📜 **TOEIC Certificate**: Scored **565/990** (HCMUTE - IIG Vietnam) demonstrating proficiency in reading tech documentation.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity at a Glance
 
 <p align="center">
   <a href="https://github.com/quanglong3824">
@@ -128,11 +103,5 @@ I am a Fullstack Developer with <strong>3 years of practical experience</strong>
   </a>
   <a href="https://github.com/quanglong3824">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanglong3824&amp;layout=compact&amp;langs_count=6&amp;title_color=818cf8&amp;icon_color=34d399&amp;text_color=a5b4fc&amp;bg_color=0e1328&amp;hide_border=true&amp;border_radius=10" alt="Top Languages" height="150">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/quanglong3824">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanglong3824&amp;stroke=818cf8&amp;background=0e1328&amp;ring=34d399&amp;fire=34d399&amp;currRing=34d399&amp;currFire=38bdf8&amp;text=a5b4fc&amp;dates=a5b4fc&amp;hide_border=true" alt="GitHub Streak" height="150">
   </a>
 </p>
